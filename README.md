@@ -3,4 +3,4 @@ this is full python tutorial
 <br>
 this is my first repository in github.
 <br>
-author-jyoti mehra.
+author-jyoti mehra(its-jojo).
